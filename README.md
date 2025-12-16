@@ -1,6 +1,6 @@
 # projects_involved
 ### Author: Yi-Chong (Terra) Jiang
-### Last Edit: 08/28/2025
+### Last Edit: 12/16/2025
 
 
 **Projects related to Python:**
@@ -15,3 +15,6 @@
 1. sql_python_project1
 2. sql_python_project2
 3. sql_python_project3
+
+**Project(s) related to both Machine Learning and Python:**
+1. ml_python_project1
