@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "65c8ded0-ca60-4857-85b7-8feeeefe5cbc": {
+      "ProjectGuid": "65c8ded0-ca60-4857-85b7-8feeeefe5cbc",
+      "DisplayName": "HW3 Vector String",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

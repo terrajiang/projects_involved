@@ -1,0 +1,18 @@
+This file was written on a WINDOWS machine.
+
+
+Here are some lines of whitespace...
+        
+                            
+Here is a line with 8 spaces after it.        
+Here is a line with 7 spaces after it.       
+Here is a line with 6 spaces after it.      
+Here is a line with 5 spaces after it.     
+Here is a line with 4 spaces after it.    
+Here is a line with 3 spaces after it.   
+Here is a line with 2 spaces after it.  
+Here is a line with 1 spaces after it. 
+Here is a line with 0 spaces after it.
+                            
+        
+This line does not even have a line break after it.  
