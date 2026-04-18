@@ -19,6 +19,7 @@
 ├── r_projects/              # Projects related to R
 ├── internet_projects/       # Projects related to internet programming (HTML/PHP/JavaScript/CSS)
 └── cpp_projects/            # Projects related to C++
+```
 
 ---
 
